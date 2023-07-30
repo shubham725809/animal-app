@@ -20,10 +20,12 @@ Future work :
 https://github.com/shubham725809/animal-app/assets/92042650/bbb1b2f0-c99c-41e8-8612-1030cf2f8e48
 
 
-![an](https://github.com/shubham725809/animal-app/assets/92042650/437c7a7d-77da-4178-8aa5-8793540b169e)
 
 
-
+ <img src="https://github.com/shubham725809/animal-app/assets/92042650/437c7a7d-77da-4178-8aa5-8793540b169e" 
+         alt="GIF Image" 
+         width="1000" 
+         height="600">
 
  
 ![image](https://github.com/shubham725809/animal-app/assets/91181470/9359227b-e09c-46bc-95c2-ce8a3138a738)
