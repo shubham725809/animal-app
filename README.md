@@ -14,18 +14,13 @@
 Future work :
  In future, we are planning that this app can record videos of the animal and on behalf of its movements and body gesture, it can suggest the disease name and also the quick remedy.
 
-![anim](https://github.com/shubham725809/animal-app/assets/92042650/02b04aea-eca6-481d-954c-ae4b7599af76)
+
 
 
 https://github.com/shubham725809/animal-app/assets/92042650/bbb1b2f0-c99c-41e8-8612-1030cf2f8e48
 
 
 
-
- <img src="https://github.com/shubham725809/animal-app/assets/92042650/437c7a7d-77da-4178-8aa5-8793540b169e" 
-         alt="GIF Image" 
-         width="1000" 
-         height="600">
 
  
 ![image](https://github.com/shubham725809/animal-app/assets/91181470/9359227b-e09c-46bc-95c2-ce8a3138a738)
